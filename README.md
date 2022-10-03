@@ -31,3 +31,6 @@ WORKING- Performed data cleaning, worked on exploratory data analysis, training 
 9) If performance is not satisfactory, adjust the model, acquire more data, or try a different modeling technique
 
 10) Interpret model and report results visually and numerically
+
+
+The prediction of relative humidity is a challenging task because of its nonlinear nature. The machine learning-based prediction strategies have attained significant attention in tackling a broad class of challenging nonlinear and complex problems. The random forest algorithm is a well-proven machine learning algorithm due to its ease of training and implementation, as it requires minimal preprocessing. The random forest algorithm has hitherto not been employed for estimating air quality parameters, such as relative humidity. In this study, the random forest approach is implemented to estimate the relative humidity as a function
