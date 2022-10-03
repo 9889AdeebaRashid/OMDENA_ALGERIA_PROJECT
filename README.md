@@ -51,5 +51,6 @@ In the second step, it predicted humidity based on temperature (predicted in the
 And I got the following results.
 
 
-![WhatsApp Image 2022-10-04 at 2 03 19 AM](https://user-images.githubusercontent.com/80636537/193677950-2fc73e01-9ea7-4b36-978d-fa0593786f2f.jpeg)
+![WhatsApp Image 2022-10-04 at 2 04 02 AM](https://user-images.githubusercontent.com/80636537/193678223-c688ae0a-a21d-485d-b1f6-c81e52055dbc.jpeg)
+
 
