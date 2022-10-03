@@ -63,7 +63,7 @@ OUR ACTUEL AND FINAL PREDICTION VISUALIZATION:--
 ![WhatsApp Image 2022-10-04 at 2 12 07 AM](https://user-images.githubusercontent.com/80636537/193678544-7e95b185-a799-4fb8-ad06-0c8caeeb8510.jpeg)
 
 
-![WhatsApp Image 2022-10-04 at 2 12 07 AM](https://user-images.githubusercontent.com/80636537/193678544-7e95b185-a799-4fb8-ad06-0c8caeeb8510.jpeg)
+
 
 
 
