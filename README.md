@@ -38,3 +38,14 @@ The prediction of relative humidity is a challenging task because of its nonline
 In the first project I predicted the temperature and humidity by replacing the values
 * the first step I predicted the temperature based on humidity and other factors such as precipitation, wind speed, etc.
 * the second step I predicted humidity based on temperature and other factors like precipitation, wind speed, etc.
+
+
+
+![WhatsApp Image 2022-10-04 at 2 03 19 AM](https://user-images.githubusercontent.com/80636537/193677719-65d30374-3d80-4692-9930-7573251755fe.jpeg)
+
+
+
+In the second project and after a simple research I found that humidity depends on temperature so i did the same work but :
+In the first step I removed the humidity column from the table and I predicted the temperature depending on the remaining factors of the table as wind speed, atmospheric pressure... etc.
+In the second step, it predicted humidity based on temperature (predicted in the first step), atmospheric pressure and other elements of the table.
+And I got the following results.
