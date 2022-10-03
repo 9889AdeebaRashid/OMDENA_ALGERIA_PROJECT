@@ -54,3 +54,17 @@ And I got the following results.
 ![WhatsApp Image 2022-10-04 at 2 04 02 AM](https://user-images.githubusercontent.com/80636537/193678223-c688ae0a-a21d-485d-b1f6-c81e52055dbc.jpeg)
 
 
+The following chart shows the idea of the second project :
+
+![WhatsApp Image 2022-10-04 at 2 04 50 AM](https://user-images.githubusercontent.com/80636537/193678368-8bb8a915-6df9-4dfc-bdc9-d6e5a7d5bd52.jpeg)
+
+OUR ACTUEL AND FINAL PREDICTION VISUALIZATION:--
+
+![WhatsApp Image 2022-10-04 at 2 12 07 AM](https://user-images.githubusercontent.com/80636537/193678544-7e95b185-a799-4fb8-ad06-0c8caeeb8510.jpeg)
+
+
+![WhatsApp Image 2022-10-04 at 2 12 07 AM](https://user-images.githubusercontent.com/80636537/193678544-7e95b185-a799-4fb8-ad06-0c8caeeb8510.jpeg)
+
+
+
+
