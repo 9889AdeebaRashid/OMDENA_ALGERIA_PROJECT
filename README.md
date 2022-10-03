@@ -49,3 +49,7 @@ In the second project and after a simple research I found that humidity depends 
 In the first step I removed the humidity column from the table and I predicted the temperature depending on the remaining factors of the table as wind speed, atmospheric pressure... etc.
 In the second step, it predicted humidity based on temperature (predicted in the first step), atmospheric pressure and other elements of the table.
 And I got the following results.
+
+
+![WhatsApp Image 2022-10-04 at 2 03 19 AM](https://user-images.githubusercontent.com/80636537/193677950-2fc73e01-9ea7-4b36-978d-fa0593786f2f.jpeg)
+
