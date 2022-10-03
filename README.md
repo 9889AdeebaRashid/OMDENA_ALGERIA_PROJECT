@@ -10,7 +10,7 @@ ADEEBA RASHID (TEAM LEADER) AND ABDELILLAH.
 
 WORKING- Performed data cleaning, worked on exploratory data analysis, training and testing set and model building.
 
-#GENERAL STEPS TO PREDICT TEMPERATURE:-
+# GENERAL STEPS TO PREDICT TEMPERATURE:-
 
 1) State the question and determine the required data (completed)
 
